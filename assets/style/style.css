@@ -1,0 +1,11 @@
+
+
+.jumbotron {
+    background-image: url("../images/skyline5.jpg");
+    background-size: cover;
+    
+}
+
+#bio-pic {
+    border-radius: 360px;
+}
